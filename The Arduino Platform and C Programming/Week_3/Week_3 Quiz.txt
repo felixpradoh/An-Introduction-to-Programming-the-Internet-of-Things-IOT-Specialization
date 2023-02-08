@@ -1,0 +1,78 @@
+Question 1
+What is the function of the linking process after compilation?
+
+[ ] It writes the executable into the memory of the Arduino
+[x] It merges the libraries with the application code into a single executable
+[ ] It converts the format of the executable file into .hex format
+[ ] All of the above
+
+-------------------------------------------------------------------------------
+
+Question 2
+What is the role of avrdude?
+
+[x] It writes the executable into the memory of the Arduino
+[ ] It merges the libraries with the application code into a single executable
+[ ] It converts the format of the executable file into .hex format
+[ ] None of the above
+
+-------------------------------------------------------------------------------
+
+Question 3
+Why are classes (in C++) useful?
+
+[ ] Their use improves code performance
+[ ] They reduce the memory requirements on the processor
+[ ] They allow the programmer to evaluate the performance of the system
+[x] They improve the organization and understandability of the code
+
+-------------------------------------------------------------------------------
+
+Question 4
+What is one way that a sketch can invoke a function contained inside a class?
+
+[ ] The name of the function can be concatenated with the name of the class, with a comma in between.
+[ ] The name of the function can be concatenated with the name of the class, with a colon in between.
+[x] The name of the class can be concatenated with the name of the function, with a period in between.
+[ ] The name of the class can be concatenated with the name of the function, with no symbol in between.
+
+-------------------------------------------------------------------------------
+
+Question 5
+Which of the following statements is true?
+
+[ ] The setup() function is executed once and the loop() function is executed a fixed number of times.
+[ ] The setup() function is executed after each iteration of loop().
+[ ] The loop() function must contain either a while loop or a for loop.
+[x] The setup() function is executed once and the loop() function is executed iteratively, as long as the Arduino is powered on.
+
+-------------------------------------------------------------------------------
+
+Question 6
+True or False: An analog pin can accept analog inputs and drive analog outputs.
+
+[ ] True
+[x] False
+
+-------------------------------------------------------------------------------
+
+Question 7
+If a sketch running on an Arduino UNO executes the following statements, what voltage would be expected on pin 1 afterwards?
+
+1| pinMode(1, OUTPUT);
+2| digitalWrite(1, HIGH);
+
+[ ] 0
+[ ] 3.3
+[x] 5
+[ ] 12
+
+-------------------------------------------------------------------------------
+
+Question 8
+True or False: The delay() function causes program execution to pause for a number of milliseconds.
+
+[x] True
+[ ] False
+
+-------------------------------------------------------------------------------

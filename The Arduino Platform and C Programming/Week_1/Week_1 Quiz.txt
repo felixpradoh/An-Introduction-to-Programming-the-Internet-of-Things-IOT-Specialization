@@ -1,123 +1,75 @@
-1.
 Question 1
-  What type of connector does an Arduino UNO not contain?
+What type of connector does an Arduino UNO not contain?
 
-1 point
+[ ] Power connector
+[ ] USB connector
+[ ] ICSP header
+[x] HDMI connector
 
-Power connector
+-------------------------------------------------------------------------------
 
-
-USB connector
-
-
-ICSP header
-
-
-HDMI connector
-
-2.
 Question 2
-  How many microcontrollers are available for user programming on the Arduino UNO?
+How many microcontrollers are available for user programming on the Arduino UNO?
 
-1 point
+[x] 1
+[ ] 2
+[ ] 3
+[ ] none
 
-1
+-------------------------------------------------------------------------------
 
-
-2
-
-
-3
-
-
-none
-
-3.
 Question 3
-  The Arduino UNO contains a user-controllable LED connected to which pin?
+The Arduino UNO contains a user-controllable LED connected to which pin?
 
-1 point
+[ ] Digital pin 1
+[x] Digital pin 13  
+[ ] Analog pin A0
+[ ] Digital pin 0  
 
-  Digital pin 1
+-------------------------------------------------------------------------------
 
-
-Digital pin 13  
-
-
-Analog pin A0
-
-
-Digital pin 0  
-
-4.
 Question 4
-  True or False: Analog pin A0 can be used as an analog output.
+True or False: Analog pin A0 can be used as an analog output.
 
-1 point
+[ ] True
+[x] False
 
-True
+-------------------------------------------------------------------------------
 
-
-False
-
-5.
 Question 5
-  Through what interface is the bootloader typically reprogrammed?
+Through what interface is the bootloader typically reprogrammed?
 
-1 point
+[ ] USB
+[x] ICSP
+[ ] Digital I/O pins
+[ ] Analog I/O pins
 
-USB
+-------------------------------------------------------------------------------
 
-
-ICSP
-
-
-Digital I/O pins
-
-
-Analog I/O pins
-
-6.
 Question 6
-  True or False: The schematic shows the connections between components and their placement on the board.
+True or False: The schematic shows the connections between components and their placement on the board.
 
-1 point
+[ ] True
+[x] False
 
-True
+-------------------------------------------------------------------------------
 
-
-False
-
-7.
 Question 7
-  What operation in the IDE triggers code to be written into the memory of the Arduino?
+What operation in the IDE triggers code to be written into the memory of the Arduino?
 
-1 point
+[x] Upload
+[ ] Save
+[ ] Verify
+[ ] Transfer
 
-Upload
+-------------------------------------------------------------------------------
 
-
-Save
-
-
-Verify
-
-
-Transfer
-
-8.
 Question 8
 Which statement about the serial monitor is NOT true?
 
-1 point
+[ ] The serial monitor is useful for debugging.
+[x] The serial monitor is a program that executes on the Arduino.
+[ ] The serial monitor allows data to be sent from the Arduino to the host computer.
+[ ] The serial monitor allows data to be sent from the host computer to the Arduino.
 
-  The serial monitor is useful for debugging.
-
-
-  The serial monitor is a program that executes on the Arduino.
-
-
-  The serial monitor allows data to be sent from the Arduino to the host computer.
-
-
-  The serial monitor allows data to be sent from the host computer to the Arduino.
+-------------------------------------------------------------------------------
