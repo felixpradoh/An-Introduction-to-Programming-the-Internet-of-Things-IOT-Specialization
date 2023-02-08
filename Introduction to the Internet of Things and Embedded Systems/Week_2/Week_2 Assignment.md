@@ -13,7 +13,7 @@
     -Tactile - describing data carried by touch 
     -Electronic - describing data encoded in electrical signals
 
-The inputs for these devices are:
-    - Visible: in the case of the smart watch (visible because used green light to detect blood)
-    - Tactile and electronic: in the case of the smart scale to measure your weight, and your fat composition.
-    - The outputs are merely visual throught a screen, tactile if contains some alarm vibrations and audio in so- me cases.
+    The inputs for these devices are:
+        - Visible: in the case of the smart watch (visible because used green light to detect blood)
+        - Tactile and electronic: in the case of the smart scale to measure your weight, and your fat composition.
+        - The outputs are merely visual throught a screen, tactile if contains some alarm vibrations and audio in so- me cases.
