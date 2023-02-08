@@ -1,0 +1,77 @@
+Question 1
+Which Arduino function can be used to read information from a sensor?
+
+[ ] analogWrite()
+[ ] tone()
+[ ] digitalRead()
+[ ] digitalWrite()
+
+-------------------------------------------------------------------------------
+
+Question 2
+A photoresistor:
+
+[ ] changes voltage according to light level
+[ ] increases or decreases current through a wire
+[ ] stores an image
+[ ] changes resistance according to light level
+
+-------------------------------------------------------------------------------
+
+Question 3
+A voltage divider is:
+
+[ ] a component that reduces voltage by a known factor
+[ ] a component acts as a power supply for a number of components
+[ ] a circuit that contains resistors connected in series
+[ ] the combination of a set of resistive sensors
+
+-------------------------------------------------------------------------------
+
+Question 4
+True or False: A voltage-controlling sensor can be read by an Arduino using the analogRead() function.
+
+[ ] True
+[ ] False
+
+-------------------------------------------------------------------------------
+
+Question 5
+In order to perform On-Off actuation, the following Arduino command might be used:
+
+[ ] digitalRead()
+[ ] tone()
+[ ] digitalWrite()
+[ ] #include
+
+-------------------------------------------------------------------------------
+
+Question 6
+The function of a Digital to Analog Converter is:
+
+[ ] to generate an analog voltage from digital signals
+[ ] to allow analog current to be controlled by a digital number
+[ ] to produce a waveform with an analog frequency
+[ ] to accept both digital and analog inputs
+
+-------------------------------------------------------------------------------
+
+Question 7
+Which Arduino command is used to generate a pulse width modulated signal?
+
+[ ] analogWrite()
+[ ] tone()
+[ ] digitalRead()
+[ ] digitalWrite()
+
+-------------------------------------------------------------------------------
+
+Question 8
+The duty cycle of a signal describes:
+
+[ ] its frequency
+[ ] its voltage level
+[ ] its peak voltage difference
+[ ] the fraction of time it is high
+
+-------------------------------------------------------------------------------
