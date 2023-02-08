@@ -1,0 +1,73 @@
+Question 1
+My watch displays the current weather downloaded from the Internet. My watch is an IoT device.
+
+[x] True
+[ ] False
+
+-------------------------------------------------------------------------------
+
+Question 2
+Which of the following could be an IoT device?
+
+[ ] a lamp
+[ ] a couch
+[ ] a pen
+[x] all of the above
+
+-------------------------------------------------------------------------------
+
+Question 3
+An IoT device can most easily be differentiated from a standard computer based on
+
+[ ] computational performance
+[ ] memory capacity
+[x] interface with the user and the world
+[ ] weight/size
+
+-------------------------------------------------------------------------------
+
+Question 4
+The following trend is NOT related to the growth in IoT technology:
+
+[x] Increase in computer monitor size over time.
+[ ] Increase in computer performance over time.
+[ ] Decrease in computer size over time.
+[ ] Decrease in computer cost over time.
+
+-------------------------------------------------------------------------------
+
+Question 5
+IoT devices are likely to be more vulnerable to cyberattacks than standard computers.
+
+[x] True
+[ ] False
+
+-------------------------------------------------------------------------------
+
+Question 6
+Which of these security approaches is feasible for most IoT devices?
+
+[ ] Use of anti-virus software.
+[ ] Use of an internal firewall.
+[x] Regular installation of product firmware updates.
+[ ] Complete separation of the device from the Internet.
+
+-------------------------------------------------------------------------------
+
+Question 7
+IoT devices gather private information about users. Which statement is most true about the security of that data?
+
+[ ] Users can ensure security of collected data by encrypting it manually.
+[x] Users must rely on data-collecting agencies to securely store and transmit their data.
+[ ] Users can sue data collecting agencies if their data is not held securely.
+[ ] Most data gathered by IoT devices is safe because IoT devices are not a target of hackers.
+
+-------------------------------------------------------------------------------
+
+Question 8
+Although people are aware of the dangers of cyberattacks, they often do not understand the risks to IoT devices.
+
+[x] True
+[ ] False
+
+-------------------------------------------------------------------------------
