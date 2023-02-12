@@ -1,0 +1,79 @@
+Question 1
+How many pins does the Raspberry Pi B+ have?
+
+[ ] 16
+[ ] 26
+[ ] 36
+[ ] 40
+
+-------------------------------------------------------------------------------
+
+Question 2
+How many GPIO pins are dedicated to the SPI protocol?
+
+[ ] 3
+[ ] 4
+[ ] 5
+[ ] 6
+
+-------------------------------------------------------------------------------
+
+Question 3
+What voltage level is associated with HIGH on the GPIO of the Raspberry Pi?
+
+[ ] 2.5
+[ ] 3.3
+[ ] 3.5
+[ ] 5.0
+
+-------------------------------------------------------------------------------
+
+Question 4
+What function determines the numbering of the pins used?
+
+[ ] GPIO.pinMode()
+[ ] GPIO.setdir()
+[ ] GPIO.output()
+[ ] GPIO.setmode()
+
+-------------------------------------------------------------------------------
+
+Question 5
+What function determines whether a pin will be used as an input or an output?
+
+[ ] GPIO.setup()
+[ ] GPIO.setmode()
+[ ] GPIO.setdir()
+[ ] None of the above
+
+-------------------------------------------------------------------------------
+
+Question 6
+What function is used to set a pin to a value?
+
+[ ] GPIO.output()
+[ ] GPIO.set()
+[ ] GPIO.drive()
+[ ] GPIO.setval()
+
+-------------------------------------------------------------------------------
+
+Question 7
+What function is used to read a digital value on a pin?
+
+[ ] GPIO.read()
+[ ] GPIO.readval()
+[ ] GPIO.input()
+[ ] GPIO.digitalRead()
+
+-------------------------------------------------------------------------------
+
+Question 8
+What function is used to read an analog value on a pin?
+
+[ ] GPIO.analogRead()
+[ ] GPIO.input()
+[ ] GPIO.analoginput()
+[ ] None of the above
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,77 @@
+Question 1
+What does the ‘sudo’ command do?
+
+[ ] Allows a command to execute with root permission
+[ ] Compiles a program
+[ ] Configures the operating system
+[ ] Executes a program at a later date
+
+-------------------------------------------------------------------------------
+
+Question 2
+What command shows a list of running processes?
+
+[ ] ls
+[ ] mk
+[ ] ps
+[ ] cd
+
+-------------------------------------------------------------------------------
+
+Question 3
+What command prints out the contents of a directory?
+
+[ ] mkdir
+[ ] rm
+[ ] ls
+[ ] more
+
+-------------------------------------------------------------------------------
+
+Question 4
+What command creates a new directory?
+
+[ ] mkdir
+[ ] pwd
+[ ] type
+[ ] rm
+
+-------------------------------------------------------------------------------
+
+Question 5
+What command should be used before powering off the machine?
+
+[ ] turnoff
+[ ] reboot
+[ ] rm
+[ ] shutdown
+
+-------------------------------------------------------------------------------
+
+Question 6
+What is the username of the non-root account created when Raspian is installed?
+
+[ ] default
+[ ] pi
+[ ] raspberry
+[ ] rpi
+
+-------------------------------------------------------------------------------
+
+Question 7
+What command starts the graphic user interface from the shell after booting the Raspberry Pi?
+
+[ ] windows
+[ ] gui
+[ ] startx
+[ ] shell
+
+-------------------------------------------------------------------------------
+
+Question 8
+The Raspberry Pi comes with Linux pre-installed?
+
+[ ] True
+[ ] False
+
+-------------------------------------------------------------------------------

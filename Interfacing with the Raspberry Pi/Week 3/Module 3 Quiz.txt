@@ -1,0 +1,68 @@
+
+Question 1
+What is a fair definition of an API?
+
+[ ] An online service
+[ ] A name server
+[ ] A protocol for communicating between programs
+[ ] A type of router
+
+-------------------------------------------------------------------------------
+
+Question 2
+What is a good reason to use an SDK rather than directly using an API?
+
+[ ] An SDK may be available when an API may not be
+[ ] Some functions can be accessed through an SDK which cannot be accessed through an API
+[ ] An SDK is usually easier to use than an API
+[ ] An SDK is usually faster than an API
+
+-------------------------------------------------------------------------------
+
+Question 3
+What is Pip?
+
+[ ] A tool to install Python packages
+[ ] A tool to monitor network traffic
+[ ] A tool to send network packets programmatically
+[ ] A tool for interacting with online services
+
+-------------------------------------------------------------------------------
+
+Question 4
+In the Twython library, what function sends a tweet?
+
+[ ] hange_status()
+[ ] weet()
+[ ] pdate_status()
+[ ] wython()
+
+-------------------------------------------------------------------------------
+
+Question 5
+In the Twython library, what function is used to detect tweets in a stream that contain a given string?
+
+[ ] find_string()
+[ ] stream.statuses.filter()
+[ ] scan_stream()
+[ ] contains()
+
+-------------------------------------------------------------------------------
+
+Question 6
+What is the name of the callback function that is invoked when a tweet that contains a selected string is found in a stream?
+
+[ ] on_detection()
+[ ] detected()
+[ ] when_found()
+[ ] on_success()
+
+-------------------------------------------------------------------------------
+
+Question 7
+The TwythonStreamer class defines the callback function which is invoked when a tweet containing a given string is found in a stream.
+
+[ ] True
+[ ] False
+
+-------------------------------------------------------------------------------
