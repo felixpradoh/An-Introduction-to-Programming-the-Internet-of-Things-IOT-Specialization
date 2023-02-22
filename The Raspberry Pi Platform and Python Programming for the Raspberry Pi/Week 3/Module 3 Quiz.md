@@ -1,0 +1,120 @@
+**Question 1**
+
+Assume that we have typed the following in the Python shell:
+>>> x = ‘chemistry’
+>>> x[3]
+
+What will be printed on the screen as a result?
+
+    [ ] h
+    [ ] e
+    [m] m
+    [ ] i
+
+-------------------------------------------------------------------------------
+
+**Question 2**
+
+Assume that we have typed the following in the Python shell:
+>>> x = ‘chemistry’
+>>> ‘i’ in x
+
+What will be printed on the screen as a result?
+
+    [ ] 4
+    [ ] 5
+    [x] True
+    [ ] 6
+
+-------------------------------------------------------------------------------
+
+**Question 3**
+
+Assume that we have typed the following in the Python shell:
+>>> x = ‘3’
+>>> y = ‘4’
+>>> x + y * 2
+
+What will be printed on the screen as a result?
+
+    [ ] 7
+    [x] ‘344’
+    [ ] 11
+    [ ] ‘3434’
+
+-------------------------------------------------------------------------------
+
+**Question 4**
+
+Assume that we have typed the following in the Python shell:
+>>> x = [1, 2]
+>>> y = [3, 4]
+>>> x.append(y)
+>>> x
+
+What will be printed on the screen as a result?
+
+    [ ] [3, 4]
+    [ ] [1, 2]
+    [ ] [1, 2, 3, 4]
+    [x] [1, 2, [3, 4]]
+
+-------------------------------------------------------------------------------
+
+**Question 5**
+
+Assume that the following Python program is executed:
+
+    c=0
+    for i in 'hello, world!':
+        if i =='o':
+            c = c + 1
+            print(c)
+
+What will be printed on the screen as a result?
+
+    [ ] 0
+    [x] 2
+    [ ] 3
+    [ ] 4
+
+-------------------------------------------------------------------------------
+
+**Question 6**
+
+Assume that the following Python program is executed:
+
+    res = [ ]
+    def merge(a,b):
+        return a+b
+    for x in [1,2]:
+        for y in [3,4]:
+            res.apend(merge(x,y))
+    print(res)
+
+What will be printed on the screen as a result?
+
+    [x] [4, 5, 5, 6]
+    [ ] [1, 2, 3, 4]
+    [ ] [13, 14, 23, 24]
+    [ ] [1, 2, 5, 6]
+
+-------------------------------------------------------------------------------
+
+**Question 7**
+
+Correct indentation is essential for your Python program to work.
+
+    [x] True
+    [ ] False
+
+-------------------------------------------------------------------------------
+
+**Question 8**
+
+Raspberry Pi can execute Python 3 code, but not Python 2.
+
+    [ ] True
+    [x] False
+
+-------------------------------------------------------------------------------

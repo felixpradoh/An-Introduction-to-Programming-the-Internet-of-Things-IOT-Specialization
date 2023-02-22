@@ -1,0 +1,80 @@
+**Question 1**
+
+In a communication over the Internet, how is the “port” number used? 
+
+    [ ] to identify a machine involved in communication
+    [ ] to uniquely identify a component on the network
+    [x] to identify the application protocol being used
+    [ ] to determine the domain name of the node on the network
+
+-------------------------------------------------------------------------------
+
+**Question 2**
+
+The Domain Name Service is:
+
+    [ ] a system to generate names for Internet domains
+    [x] a service to map domain names to IP addresses
+    [ ] a protocol for identifying services provided by different domains
+
+-------------------------------------------------------------------------------
+
+**Question 3**
+
+Which of the following is NOT an argument to the Ethernet.begin() function?
+
+    [ ] MAC address
+    [ ] IP address
+    [x] Local processor
+    [ ] Gateway
+
+-------------------------------------------------------------------------------
+
+**Question 4**
+
+DHCP is:
+
+    [x] a protocol to assign IP addresses to network nodes
+    [ ] a type of router used with Ethernet
+    [ ] a location service for network nodes
+    [ ] a type of firewall used in small companies
+
+-------------------------------------------------------------------------------
+
+**Question 5**
+
+What is NOT a type of encryption used in WiFi today?
+
+    [ ] WEP
+    [ ] WPA
+    [x] WPC
+    [ ] WPA2
+
+-------------------------------------------------------------------------------
+
+**Question 6**
+
+True or False: The SSID of a WiFi network is the name of the network.
+
+    [x] True
+    [ ] False
+
+-------------------------------------------------------------------------------
+
+**Question 7**
+
+True or False: An Ethernet client does not send data to an Ethernet server.
+
+    [ ] True
+    [x] False
+
+-------------------------------------------------------------------------------
+
+**Question 8**
+
+True or False: A MAC address is unique for each network adapter.
+
+    [x] True
+    [ ] False
+
+-------------------------------------------------------------------------------

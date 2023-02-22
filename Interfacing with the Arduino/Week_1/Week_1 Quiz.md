@@ -1,0 +1,83 @@
+**Question 1**
+
+Pressure in a water pump system is analogous to what concept in an electrical circuit?
+
+    [ ] resistance
+    [x] voltage
+    [ ] capacitance
+    [ ] current
+
+-------------------------------------------------------------------------------
+
+**Question 2**
+
+A narrow pipe in a water system is analogous to what concept in an electrical circuit?
+
+    [x] resistance
+    [ ] voltage
+    [ ] capacitance
+    [ ] current
+
+-------------------------------------------------------------------------------
+
+**Question 3**
+
+Electrical current is measured in: 
+
+    [ ] Ohms
+    [ ] Coulombs
+    [x] Amperes
+    [ ] Volts
+
+-------------------------------------------------------------------------------
+
+**Question 4**
+
+Electrical resistance is measured in: 
+
+    [x] Ohms
+    [ ] Coulombs
+    [ ] Amperes
+    [ ] Volts
+
+-------------------------------------------------------------------------------
+
+**Question 5**
+
+An LED is reverse-biased when:
+
+    [ ] the voltage across it does exceed its threshold
+    [ ] the anode and cathode have the same voltage
+    [ ] current flows through the LED
+    [x] the anode is negative with respect to the cathode
+
+-------------------------------------------------------------------------------
+
+**Question 6**
+
+The function of a potentiometer is to:
+
+    [ ] measure the resistance between two points in the circuit
+    [ ] measure the voltage between two points in the circuit
+    [x] vary the resistance between points in the circuit
+    [ ] complete an open circuit
+
+-------------------------------------------------------------------------------
+
+**Question 7**
+
+True or False: All of the holes in a column on the side of a breadboard are electrically connected.
+
+    [x] True
+    [ ] False
+
+-------------------------------------------------------------------------------
+
+**Question 8**
+
+True or False: When resistance increases and current is held constant, voltage also increases.
+
+    [x] True
+    [ ] False
+
+-------------------------------------------------------------------------------

@@ -3,7 +3,7 @@ Which Arduino function can be used to read information from a sensor?
 
 [ ] analogWrite()
 [ ] tone()
-[ ] digitalRead()
+[x] digitalRead()
 [ ] digitalWrite()
 
 -------------------------------------------------------------------------------
@@ -14,7 +14,7 @@ A photoresistor:
 [ ] changes voltage according to light level
 [ ] increases or decreases current through a wire
 [ ] stores an image
-[ ] changes resistance according to light level
+[x] changes resistance according to light level
 
 -------------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ A voltage divider is:
 Question 4
 True or False: A voltage-controlling sensor can be read by an Arduino using the analogRead() function.
 
-[ ] True
+[x] True
 [ ] False
 
 -------------------------------------------------------------------------------
@@ -41,7 +41,7 @@ In order to perform On-Off actuation, the following Arduino command might be use
 
 [ ] digitalRead()
 [ ] tone()
-[ ] digitalWrite()
+[x] digitalWrite()
 [ ] #include
 
 -------------------------------------------------------------------------------
@@ -49,7 +49,7 @@ In order to perform On-Off actuation, the following Arduino command might be use
 Question 6
 The function of a Digital to Analog Converter is:
 
-[ ] to generate an analog voltage from digital signals
+[x] to generate an analog voltage from digital signals
 [ ] to allow analog current to be controlled by a digital number
 [ ] to produce a waveform with an analog frequency
 [ ] to accept both digital and analog inputs
@@ -59,7 +59,7 @@ The function of a Digital to Analog Converter is:
 Question 7
 Which Arduino command is used to generate a pulse width modulated signal?
 
-[ ] analogWrite()
+[x] analogWrite()
 [ ] tone()
 [ ] digitalRead()
 [ ] digitalWrite()
@@ -72,6 +72,6 @@ The duty cycle of a signal describes:
 [ ] its frequency
 [ ] its voltage level
 [ ] its peak voltage difference
-[ ] the fraction of time it is high
+[x] the fraction of time it is high
 
 -------------------------------------------------------------------------------

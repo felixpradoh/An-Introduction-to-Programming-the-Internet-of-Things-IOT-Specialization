@@ -3,7 +3,7 @@ In a communication over the Internet, how is the “port” number used?
 
 [ ] to identify a machine involved in communication
 [ ] to uniquely identify a component on the network
-[ ] to identify the application protocol being used
+[x] to identify the application protocol being used
 [ ] to determine the domain name of the node on the network
 
 -------------------------------------------------------------------------------
@@ -12,7 +12,7 @@ Question 2
 The Domain Name Service is:
 
 [ ] a system to generate names for Internet domains
-[ ] a service to map domain names to IP addresses
+[x] a service to map domain names to IP addresses
 [ ] a protocol for identifying services provided by different domains
 
 -------------------------------------------------------------------------------
@@ -22,7 +22,7 @@ Which of the following is NOT an argument to the Ethernet.begin() function?
 
 [ ] MAC address
 [ ] IP address
-[ ] Local processor
+[x] Local processor
 [ ] Gateway
 
 -------------------------------------------------------------------------------
@@ -30,7 +30,7 @@ Which of the following is NOT an argument to the Ethernet.begin() function?
 Question 4
 DHCP is:
 
-[ ] a protocol to assign IP addresses to network nodes
+[x] a protocol to assign IP addresses to network nodes
 [ ] a type of router used with Ethernet
 [ ] a location service for network nodes
 [ ] a type of firewall used in small companies
@@ -42,7 +42,7 @@ What is NOT a type of encryption used in WiFi today?
 
 [ ] WEP
 [ ] WPA
-[ ] WPC
+[x] WPC
 [ ] WPA2
 
 -------------------------------------------------------------------------------
@@ -50,7 +50,7 @@ What is NOT a type of encryption used in WiFi today?
 Question 6
 True or False: The SSID of a WiFi network is the name of the network.
 
-[ ] True
+[x] True
 [ ] False
 
 -------------------------------------------------------------------------------
@@ -59,14 +59,14 @@ Question 7
 True or False: An Ethernet client does not send data to an Ethernet server.
 
 [ ] True
-[ ] False
+[x] False
 
 -------------------------------------------------------------------------------
 
 Question 8
 True or False: A MAC address is unique for each network adapter.
 
-[ ] True
+[x] True
 [ ] False
 
 -------------------------------------------------------------------------------
