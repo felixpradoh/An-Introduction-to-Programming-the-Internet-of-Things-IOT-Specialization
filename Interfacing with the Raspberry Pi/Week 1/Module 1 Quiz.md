@@ -1,0 +1,85 @@
+**Question 1**
+
+What is DHCP used for?
+
+    [ ] It is a type of firewall that protects your local network
+    [ ] It is a network protocol used to communicate between name servers.
+    [x] It is a network protocol used to assign IP addresses.
+    [ ] It is a hardware component that connects a host to the network.
+
+-------------------------------------------------------------------------------
+
+**Question 2**
+
+What is an SSH server?
+
+    [ ] A tool for diagnosing a network application
+    [x] A program which responds to incoming ssh requests
+    [ ] A machine which guarantees security of the local network
+    [ ] A program which initiates ssh requests
+
+-------------------------------------------------------------------------------
+
+**Question 3**
+
+When an ssh client is invoked at the command-line with the “ssh” command, what other argument must be provided on the command line?
+
+    [x] A domain name or IP address to connect to
+    [ ] A specification of what type of data will be transferred
+    [ ] A DNS server address
+    [ ] A specification of what type of communication is desired
+
+-------------------------------------------------------------------------------
+
+**Question 4**
+
+What command will reveal the IP address of your Raspberry Pi?
+
+    [ ] dig
+    [ ] nslookup
+    [ ] ipaddr
+    [x] ifconfig
+
+-------------------------------------------------------------------------------
+
+**Question 5**
+
+What is a fair definition of the term "protocol"?
+
+    [ ] Any program that performs networked communication
+    [x] A set of rules for communication
+    [ ] A method to declare the existence of a new node in the network
+    [ ] A tool to analyze network communication
+
+-------------------------------------------------------------------------------
+
+**Question 6**
+
+What does an IP address uniquely identify?
+
+    [ ] A switch which is part of the Internet
+    [ ] A hardware network interface card
+    [x] A host communicating on the Internet
+    [ ] A process connected to the Internet
+
+-------------------------------------------------------------------------------
+
+**Question 7**
+
+How big is a port TCP/UDP number?
+
+    [ ] 8 bits
+    [x] 16 bits
+    [ ] 24 bits
+    [ ] 32 bits
+
+-------------------------------------------------------------------------------
+
+**Question 8**
+
+The nslookup command will show the IP address corresponding to a given domain name.
+
+    [x] True
+    [ ] False
+
+-------------------------------------------------------------------------------
