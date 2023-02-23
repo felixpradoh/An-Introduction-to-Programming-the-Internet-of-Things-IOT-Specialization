@@ -6,7 +6,7 @@ x = int(input('Introduce first number:  '))
 my_list.append(x)
 y = int(input('Introduce second number: '))
 my_list.append(y)
-z = int(input('Introduce third number:  '25))
+z = int(input('Introduce third number:  '))
 my_list.append(z)
 
 #sort the list in ascending order and print it
