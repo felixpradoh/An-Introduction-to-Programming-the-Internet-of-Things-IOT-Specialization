@@ -1,68 +1,74 @@
+**Question 1**
 
-Question 1
 What is a fair definition of an API?
 
-[ ] An online service
-[ ] A name server
-[x] A protocol for communicating between programs
-[ ] A type of router
+    [ ] An online service
+    [ ] A name server
+    [x] A protocol for communicating between programs
+    [ ] A type of router
 
 -------------------------------------------------------------------------------
 
-Question 2
+**Question 2**
+
 What is a good reason to use an SDK rather than directly using an API?
 
-[ ] An SDK may be available when an API may not be
-[ ] Some functions can be accessed through an SDK which cannot be accessed through an API
-[x] An SDK is usually easier to use than an API
-[ ] An SDK is usually faster than an API
+    [ ] An SDK may be available when an API may not be
+    [ ] Some functions can be accessed through an SDK which cannot be accessed through an API
+    [x] An SDK is usually easier to use than an API
+    [ ] An SDK is usually faster than an API
 
 -------------------------------------------------------------------------------
 
-Question 3
+**Question 3**
+
 What is Pip?
 
-[x] A tool to install Python packages
-[ ] A tool to monitor network traffic
-[ ] A tool to send network packets programmatically
-[ ] A tool for interacting with online services
+    [x] A tool to install Python packages
+    [ ] A tool to monitor network traffic
+    [ ] A tool to send network packets programmatically
+    [ ] A tool for interacting with online services
 
 -------------------------------------------------------------------------------
 
-Question 4
+**Question 4**
+
 In the Twython library, what function sends a tweet?
 
-[ ] change_status()
-[ ] tweet()
-[x] update_status()
-[ ] twython()
+    [ ] change_status()
+    [ ] tweet()
+    [x] update_status()
+    [ ] twython()
 
 -------------------------------------------------------------------------------
 
-Question 5
+**Question 5**
+
 In the Twython library, what function is used to detect tweets in a stream that contain a given string?
 
-[ ] find_string()
-[x] stream.statuses.filter()
-[ ] scan_stream()
-[ ] contains()
+    [ ] find_string()
+    [x] stream.statuses.filter()
+    [ ] scan_stream()
+    [ ] contains()
 
 -------------------------------------------------------------------------------
 
-Question 6
+**Question 6**
+
 What is the name of the callback function that is invoked when a tweet that contains a selected string is found in a stream?
 
-[ ] on_detection()
-[ ] detected()
-[ ] when_found()
-[x] on_success()
+    [ ] on_detection()
+    [ ] detected()
+    [ ] when_found()
+    [x] on_success()
 
 -------------------------------------------------------------------------------
 
-Question 7
+**Question 7**
+
 The TwythonStreamer class defines the callback function which is invoked when a tweet containing a given string is found in a stream.
 
-[x] True
-[ ] False
+    [x] True
+    [ ] False
 
 -------------------------------------------------------------------------------
