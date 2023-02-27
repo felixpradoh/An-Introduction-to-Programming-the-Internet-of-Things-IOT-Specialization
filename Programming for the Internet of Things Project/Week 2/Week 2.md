@@ -1,0 +1,3 @@
+# Peer-graded Assignment: Assignment 2: Design Document
+
+*Write a system design document that describes the system design options that you evaluated for your Capstone project. Your document needs to fully describe each system design option and fully describe how you evaluated each option. You will probably need a block diagram to draw the components in each system design option and show how they are connected. You also need to state how you made your final decision in selecting an option.*
